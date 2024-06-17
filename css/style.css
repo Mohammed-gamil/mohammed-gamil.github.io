@@ -8934,12 +8934,12 @@ h1, h2, h3, h4, h5,
     margin-top: -70px;
     padding-top: 10em !important; } }
     .project {
-      width: 500px;
-      height: 500px; /* Change height to auto */
+      width: 400px;
+      height: 400px; 
       margin-bottom: 30px;
       margin-left: 0px;
       margin-right: 20px;
-      position: relative;
+      position: justify;
       z-index: 0;
     }
 
